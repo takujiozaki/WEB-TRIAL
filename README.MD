@@ -67,7 +67,7 @@ h3{
   padding-left:2px;
 }
 ```
-箇条書きに装飾を加えてみる
+箇条書きを横並びにする
 ```
 ul>li{
   display:inline-block;
