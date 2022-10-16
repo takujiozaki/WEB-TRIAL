@@ -33,7 +33,7 @@ WEBページに画像を加えてみましょう。
 
 Web専攻のイメージ画像を加えてみる
 ```
-https://i.postimg.cc/qqbM2p2D/webdesign.jpg
+https://takujiozaki.com/opencanpus/webdesign.jpg
 ```
 
 ## CSSを書いてみる
@@ -80,6 +80,12 @@ p{
   line-height:2em;
 }
 ```
+画像を画面内に収めてみよう
+```
+div.keyvisual img{
+  max-width:100%;
+}
+```
 
 ## 完成ページ
-[ここまでの完成ページ](https://jsfiddle.net/xz5re2wj/)
+[ここまでの完成ページ](https://jsfiddle.net/v5pwLtqz/3/)
