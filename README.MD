@@ -12,6 +12,8 @@ WEBブラウザを使ってWEBページやWEBアプリケーションを開発�
 
 [JSFIDDLE](https://jsfiddle.net/)
 
+![QRCode](jsfiddle.png)
+
 ## JSFIDDLEの基本的な使い方
 左上がHTML、右上がCSS、左下がJavaScript記述するエリアになっています。
 右下が結果を表示するプレビュー画面です。
