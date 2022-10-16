@@ -35,7 +35,9 @@ WEBページに画像を加えてみましょう。
 
 Web専攻のイメージ画像を加えてみる
 ```
-https://takujiozaki.com/opencanpus/webdesign.jpg
+<div class="keyvisual">
+  <img src="https://takujiozaki.com/opencanpus/webdesign.jpg" alt="">
+</div>
 ```
 
 ## CSSを書いてみる
@@ -44,7 +46,7 @@ HTML
 全体をDIVタグで覆う、覆うのでwrap(ラップ)という名前をよく使います。
 ```
 <div class="wrapper">
-
+  <!-- センターレイアウトにしたい項目を配置 -->
 </div>
 ```
 CSS  
